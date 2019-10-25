@@ -1,0 +1,2 @@
+Nama = Louis Siau Sentra
+NIM = 2301864543
